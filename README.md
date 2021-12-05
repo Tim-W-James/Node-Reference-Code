@@ -13,5 +13,5 @@
 - Install dependencies (from existing package.json): `npm install`
 - Install a [package](https://www.npmjs.com/) in project (package.json): `npm i <package>`
 - Install a [package](https://www.npmjs.com/) globally: `npm i -g <package>`
-- repl (read-eval-print-loop): node 
+- repl (read-eval-print-loop): `node` 
 - Run JavaScript in the terminal: `node <filename>.js` or `node .` (automatically finds index.js)
