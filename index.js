@@ -1,4 +1,3 @@
-
 // * callbacks
 
 // when the exit event occurs, the function will run
